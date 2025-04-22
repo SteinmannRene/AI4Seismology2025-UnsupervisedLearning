@@ -1,0 +1,9 @@
+name: scads2025-unsupervised
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - conda-forge::obspy
+  - conda-forge::umap-learn
+  - ipykernel
+prefix: /home/steinre/anaconda3/envs/scads2025-unsupervised

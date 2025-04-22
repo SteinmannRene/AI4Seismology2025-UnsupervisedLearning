@@ -1,0 +1,6 @@
+{
+    "window_length_sec": 60,
+    "sampling_rate_hz": 50.0,
+    "normalize": true,
+    "taper": true
+}
